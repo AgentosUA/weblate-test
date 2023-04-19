@@ -4,5 +4,6 @@
     "island": "острів",
     "awesome": {
         "man": "людина"
-    }
+    },
+    "welcome-message": "Ласкаво просимо, {{username}}! Раді бачити Вас!"
 }
