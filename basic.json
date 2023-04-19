@@ -4,5 +4,6 @@
     "island": "island",
     "awesome": {
         "man": "Man"
-    }
+    },
+    "welcome-message": "Welcome {{username}}! Glad to see you!"
 }
